@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Try Multithread", "Try Multithread\Try Multithread.pyproj", "{702E435B-4F72-48A2-A454-E071C5C23DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702E435B-4F72-48A2-A454-E071C5C23DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702E435B-4F72-48A2-A454-E071C5C23DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB60D0C3-0976-4D5D-B658-279A4A046D7A}
+	EndGlobalSection
+EndGlobal

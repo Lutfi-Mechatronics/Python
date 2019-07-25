@@ -1,0 +1,12 @@
+ONE
+TWO
+THREE
+FOUR
+OPEN
+CLOSE
+UP
+DOWN
+I
+am
+Abdul
+Lutfi

@@ -1,0 +1,9 @@
+1	Cake    Cookie           Muffin
+2	Flour   Butter           Yogurt
+3	Salt    Sugar            Eggs
+4	Cocoa   Powder           Eggs    
+5	Butter  Vanilla          Vanilla
+6	Sugar   Flour            Flour
+7	Eggs    Salt             Sugar
+8	Vanilla Baking Soda      Baking Powder
+9	Baking  Soda Chocolate   Baking Soda
